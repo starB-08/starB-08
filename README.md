@@ -15,7 +15,7 @@
 </div>
 
 <h3 align="center"> I can use</h3>
-<h4> $${\color{#222}Smashing \space with \space keyboard \space is \space also \space using \space keyboard}$$ </h4>
+<h4> $${\color{#222}Smashing \space with \space keyboard \space is \space one \space of \space the \space ways \space to \space use \space keyboard}$$ </h4>
 
 
 ---
