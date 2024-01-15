@@ -1,6 +1,7 @@
 <h1 align="center"> STARB_ </h1>
 
 <h3 align="center"> I can speak in </h3>
+<h6> $${\color{#222}Not fluently}$$ </h6>
 
 
 ---
@@ -14,6 +15,8 @@
 </div>
 
 <h3 align="center"> I can use</h3>
+<h4> $${\color{#222}Smashing \space with \space keyboard \space is \space also \space using \space keyboard}$$ </h4>
+
 
 ---
 <div align="center">
